@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenSeymourODB
-- 👀 I’m interested in .NET web applications
+- 👀 I’m interested in .NET web applications, making sense of legacy spaghetti code, and automating boring tasks of every kind.
 - 🌱 I’m currently learning better SQL practices to better maintain a ton of legacy applications
 - 💞️ I’m looking to collaborate on utility packages for .NET and ASP.NET applications
 - 📫 If you work with @rbcministries, send me a Slack message in the main workspace. Otherwise, tag me on Twitter @B1SeeMore.
